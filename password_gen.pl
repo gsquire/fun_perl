@@ -6,9 +6,9 @@ use feature qw (say);
 
 my $length;
 my $random;
-my $range = 75;    # All charcters included
+my $range = 75; # All charcters included.
 
-# Arrays of characters to generate password
+# Arrays of characters to generate password.
 
 my @generated;
 my @lowers   = qw(a b c d e f g h i j k l m n o p q r s t u v w x y z);
